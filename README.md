@@ -17,6 +17,8 @@ Inclua a seguinte tag `script` no `index.html` para carregar os arquivos `javasc
 <script src="http://hom-mingle.totvs.com.br/api/api/v1/services/maps/gmaps?appId=<APP_ID>"></script>
 ```
 
+**OBS: No cadastro do App, a opção `Google Maps` deve estar habilitada.**
+
 Com isso, toda a biblioteca de mapas do google será carregada no aplicativo, e poderá ser usada seguindo a seguinte documentação:
 
 *https://developers.google.com/maps/documentation/javascript/tutorial*
